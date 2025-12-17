@@ -2,10 +2,10 @@
   "name": "prize-wheel",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": ">=18"
@@ -16,3 +16,4 @@
     "express": "^4.19.2"
   }
 }
+
